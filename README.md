@@ -1,8 +1,12 @@
-# 📰 News Portal - Category Management (Laravel)
+# News Portal - Category Management (Laravel)
+Akses:
 
-## 📌 Deskripsi
+```
+http://http://127.0.0.1:8000//categories
 
-## 🚀 Fitur
+## Deskripsi
+
+## Fitur
 
 * Menampilkan kategori
 * Menambah kategori
@@ -11,7 +15,7 @@
 
 ---
 
-## 🛠️ Teknologi
+## Teknologi
 
 * Laravel
 * PHP
@@ -20,7 +24,7 @@
 
 ---
 
-## 🌐 Routing
+## Routing
 
 | Method | URL                     | Fungsi           |
 | ------ | ----------------------- | ---------------- |
@@ -33,7 +37,7 @@
 
 ---
 
-## 📂 Contoh Data (JSON Representation)
+## Contoh Data (JSON Representation)
 
 Walaupun project ini berbasis **web (Blade)**, berikut adalah bentuk data jika direpresentasikan dalam format JSON:
 
@@ -114,7 +118,7 @@ Walaupun project ini berbasis **web (Blade)**, berikut adalah bentuk data jika d
 
 ---
 
-## ▶️ Cara Menjalankan
+## Cara Menjalankan
 
 ```bash
 composer install
@@ -124,8 +128,5 @@ php artisan migrate
 php artisan serve
 ```
 
-Akses:
 
-```
-http://http://127.0.0.1:8000//categories
 ```
