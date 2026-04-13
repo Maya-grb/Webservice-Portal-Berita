@@ -1,6 +1,6 @@
 # News Portal Laravel
 
-## Deskripsi
+
 
 Project ini merupakan aplikasi News Portal berbasis Laravel yang digunakan untuk menampilkan berita serta mengelola kategori berita. Sistem ini menerapkan konsep CRUD (Create, Read, Update, Delete) untuk kategori dan menampilkan data berita pada halaman utama.
 
