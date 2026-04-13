@@ -72,21 +72,15 @@ Database yang digunakan: `news_portal_db`
 ## Routing
 
 ### Kategori
+GET /categories untuk menampilkan data kategori,
+GET /categories/create untuk menampilkan form tambah,
+POST /categories untuk menyimpan data kategori,
+GET /categories/{id}/edit untuk menampilkan form edit,
+PUT /categories/{id} untuk mengupdate data,
+DELETE /categories/{id} untuk menghapus data.
 
-| Method | URL                   | Deskripsi                 |
-| ------ | --------------------- | ------------------------- |
-| GET    | /categories           | Menampilkan data kategori |
-| GET    | /categories/create    | Menampilkan form tambah   |
-| POST   | /categories           | Menyimpan data kategori   |
-| GET    | /categories/{id}/edit | Menampilkan form edit     |
-| PUT    | /categories/{id}      | Mengupdate data           |
-| DELETE | /categories/{id}      | Menghapus data            |
-
-### Berita
-
-| Method | URL | Deskripsi                  |
-| ------ | --- | -------------------------- |
-| GET    | /   | Menampilkan seluruh berita |
+##Berita:
+GET / untuk menampilkan seluruh berita.
 
 ---
 
