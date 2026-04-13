@@ -222,12 +222,3 @@ http://localhost:8000/
 
 ---
 
-## Developer
-
-Maya Via Agustin
-
----
-
-## Lisensi
-
-Project ini dibuat untuk keperluan pembelajaran.
